@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Editor Settings
+.vscode/
+
+# Generated directories
+coverage/
+
+# Environment Variables
+.env
